@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/Saveliy/AndroidStudioProjects/WallpapersProject/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/WallpapersProject/app/src/main/res/drawable/logo.xml" value="0.2675" />
+        <entry key="..\:/WallpapersProject/app/src/main/res/drawable/splashscreen.xml" value="0.2675" />
+        <entry key="..\:/WallpapersProject/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/WallpapersProject/app/src/main/res/layout/activity_splash_screen.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
